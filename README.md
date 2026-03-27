@@ -64,7 +64,7 @@
 
 ## 📫 Contact Me  
 
-- 💬 Telegram: [Faris Sudy](t.me/FARISSUDY)  
+- 💬 Telegram: [Faris Sudy](https://t.me/FARISSUDY)  
 - 📧 Email: FarisSudy@Gmail.Com  
 - 👍 Facebook: [Faris Sudy](https://www.facebook.com/share/1D52rcJuC6/)  
 - 📸 Instagram: [Faris Sudy](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=)  
