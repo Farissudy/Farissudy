@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,git,vscode,figma&theme=dark"/>
 
 </div>
----
+
 
 ## 📊 GitHub Stats  
 
@@ -50,6 +50,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissudy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/>
 
 </div>
+
+
+---
 ## 📈 GitHub Activity Graph
 
 <div align="center">
@@ -57,8 +60,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farissudy&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
 
 ## 📫 Contact Me  
 
