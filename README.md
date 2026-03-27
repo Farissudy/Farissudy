@@ -58,11 +58,11 @@
 
 - 💬 Telegram: [Faris Sudy](t.me/FARISSUDY)  
 - 📧 Email: FarisSudy@Gmail.Com  
-- 👍 Facebook: [Faris Sudy]([https://facebook.com/yourusername](https://www.facebook.com/share/1D52rcJuC6/))  
-- 📸 Instagram: [Faris Sudy]([https://instagram.com/yourusername](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=))  
-- 🐦 Twitter (X): [Faris Sudy]([https://twitter.com/yourusername](https://x.com/FSudy15175))
-- 💼 Linked In : [Faris Sudy]([[https://twitter.com/yourusername](https://x.com/FSudy15175)](https://www.linkedin.com/in/faris-sudy-222974341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-- 🎵TikTok : [Faris El-Gn]([[https://twitter.com/yourusername](https://x.com/FSudy15175)](https://www.tiktok.com/@farissudy?_r=1&_t=ZS-952n9ouDMH4))
+- 👍 Facebook: [Faris Sudy](https://www.facebook.com/share/1D52rcJuC6/)  
+- 📸 Instagram: [Faris Sudy](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=)  
+- 🐦 Twitter (X): [Faris Sudy](https://x.com/FSudy15175)
+- 💼 Linked In : [Faris Sudy](https://www.linkedin.com/in/faris-sudy-222974341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- 🎵TikTok : [Faris El-Gn](https://www.tiktok.com/@farissudy?_r=1&_t=ZS-952n9ouDMH4))
 
 ---
 
