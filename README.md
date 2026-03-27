@@ -8,7 +8,7 @@
 <p>🎓 Student at WE School for Applied Technology</p>
 <p>💻 Passionate about Web Development & Programming</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=farissudy&style=flat&color=orange)
 
 </div>
 
@@ -47,8 +47,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="45%">
+<img src="https://github-readme-stats.vercel.app/api?username=farissudy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farissudy&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissudy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/>
 
 </div>
 
