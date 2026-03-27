@@ -1,3 +1,4 @@
+<div align="center" width="50">
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Fares+Mohamed;Front-End+Web+Developer;Passionate+About+Web+Development;Always+Learning+New+Things+🚀"/>
@@ -41,13 +42,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farissudy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=farissudy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farissudy&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissudy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissudy&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%"/> -->
 
 </div>
 
