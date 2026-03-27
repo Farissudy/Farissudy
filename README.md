@@ -58,6 +58,9 @@
 
 - 💬 Telegram: [Your Username](https://t.me/yourusername)  
 - 📧 Email: your@email.com  
+- 👍 Facebook: [Your Facebook](https://facebook.com/yourusername)  
+- 📸 Instagram: [Your Instagram](https://instagram.com/yourusername)  
+- 🐦 Twitter (X): [Your Twitter](https://twitter.com/yourusername)  
 
 ---
 
