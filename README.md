@@ -56,11 +56,13 @@
 
 ## 📫 Contact Me  
 
-- 💬 Telegram: [Your Username](t.me/FARISSUDY)  
+- 💬 Telegram: [Faris Sudy](t.me/FARISSUDY)  
 - 📧 Email: FarisSudy@Gmail.Com  
-- 👍 Facebook: [Your Facebook]([https://facebook.com/yourusername](https://www.facebook.com/share/1D52rcJuC6/))  
-- 📸 Instagram: [Your Instagram]([https://instagram.com/yourusername](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=))  
-- 🐦 Twitter (X): [Your Twitter]([https://twitter.com/yourusername](https://x.com/FSudy15175))  
+- 👍 Facebook: [Faris Sudy]([https://facebook.com/yourusername](https://www.facebook.com/share/1D52rcJuC6/))  
+- 📸 Instagram: [Faris Sudy]([https://instagram.com/yourusername](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=))  
+- 🐦 Twitter (X): [Faris Sudy]([https://twitter.com/yourusername](https://x.com/FSudy15175))
+- 💼 Linked In : [Faris Sudy]([[https://twitter.com/yourusername](https://x.com/FSudy15175)](https://www.linkedin.com/in/faris-sudy-222974341?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- 🎵TikTok : [Faris El-Gn]([[https://twitter.com/yourusername](https://x.com/FSudy15175)](https://www.tiktok.com/@farissudy?_r=1&_t=ZS-952n9ouDMH4))
 
 ---
 
