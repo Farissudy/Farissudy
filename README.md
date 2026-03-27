@@ -56,11 +56,11 @@
 
 ## 📫 Contact Me  
 
-- 💬 Telegram: [Your Username](https://t.me/yourusername)  
-- 📧 Email: your@email.com  
-- 👍 Facebook: [Your Facebook](https://facebook.com/yourusername)  
-- 📸 Instagram: [Your Instagram](https://instagram.com/yourusername)  
-- 🐦 Twitter (X): [Your Twitter](https://twitter.com/yourusername)  
+- 💬 Telegram: [Your Username](t.me/FARISSUDY)  
+- 📧 Email: FarisSudy@Gmail.Com  
+- 👍 Facebook: [Your Facebook]([https://facebook.com/yourusername](https://www.facebook.com/share/1D52rcJuC6/))  
+- 📸 Instagram: [Your Instagram]([https://instagram.com/yourusername](https://www.instagram.com/faris_sudy1?igsh=N2JjeTFzaWtjdHc=))  
+- 🐦 Twitter (X): [Your Twitter]([https://twitter.com/yourusername](https://x.com/FSudy15175))  
 
 ---
 
